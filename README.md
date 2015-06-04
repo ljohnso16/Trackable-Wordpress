@@ -2,7 +2,7 @@
 
 
 
-<p>This isntall of wordpress allows one to manage their themes and plugins in a git repository, 
+<p>This install of Wordpress allows one to manage their themes and plugins in a git repository, 
 while at the same time keep a reference to the core WordPress files, and allows for easy updating
 of Wordpress core files</p>
 
